@@ -16,10 +16,6 @@
         <hr>
 </p>
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "250px">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=false&vCenter=true&width=600&height=250&lines=Full-Stack+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner+and+Researcher,;Love+to+learn+new+technologies...">
-
-
 <div>
         <!-- <a href="https://github.com/Buddika-Kasun?tab=followers">
                 <img src="https://komarev.com/ghpvc/?username=Buddika-Kasun&color=blue"></a> &nbsp; -->
@@ -29,7 +25,8 @@
                 <img src="https://img.shields.io/github/stars/Buddika-Kasun?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
 </div>
 
-<br>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "250px">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=false&vCenter=true&width=600&height=250&lines=Full-Stack+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner+and+Researcher,;Love+to+learn+new+technologies...">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
