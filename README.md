@@ -37,7 +37,7 @@
                 <summary>
                         <h1>
                                 Skills
-                                <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30" >
+                                <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" >
                         </h1>
                 </summary>
         </ul>
@@ -55,7 +55,7 @@
                 <summary>
                         <h1>
                                 GitHub Analytics
-                                <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20">
+                                <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
                         </h1>
                 </summary>
         </ul>
