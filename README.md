@@ -55,15 +55,15 @@
                 <summary>
                         <h1>
                                 GitHub Analytics
-                                <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+                                <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
                         </h1>
                 </summary>
         </ul>
 </div>
 
-<img src="./assets/circuits.gif" width=200px height=200px align="left">
-
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Buddika-Kasun&theme=panda&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats" align="left" />
+
+<img src="./assets/circuits.gif" width=200px height=200px align="left">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Buddika-Kasun&theme=neon-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats" align="right" />
 
