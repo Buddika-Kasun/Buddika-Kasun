@@ -72,9 +72,7 @@
 
   <!--profile visit count-->
   <div align="center">
-
-  [![](https://visitcount.itsvg.in/api?id=Buddika-Kasun&icon=3&color=6)](https://visitcount.itsvg.in)
-
+        <img src="https://visitcount.itsvg.in/api?id=Buddika-Kasun&icon=3&color=6" />
   </div>
 
 
