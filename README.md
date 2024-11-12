@@ -23,8 +23,8 @@
 </p>
 
 <div>
-        <a href="https://github.com/Buddika-Kasun?tab=followers">
-                <img src="https://komarev.com/ghpvc/?username=Buddika-Kasun&color=blue"></a> &nbsp;
+        <!-- <a href="https://github.com/Buddika-Kasun?tab=followers">
+                <img src="https://komarev.com/ghpvc/?username=Buddika-Kasun&color=blue"></a> &nbsp; -->
         <a href="https://github.com/Buddika-Kasun?tab=followers">
                 <img src="https://img.shields.io/github/followers/Buddika-Kasun?&logoColor=black&style=social" alt="GitHub followers"></a> &nbsp;
         <a href="https://github.com/Buddika-Kasun?tab=followers">
