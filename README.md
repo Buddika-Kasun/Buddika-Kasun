@@ -74,7 +74,7 @@
 
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+    <img height="180em" width=100% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
 </p>
 
 
