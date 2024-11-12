@@ -1,10 +1,19 @@
-<h1 align="left">
-        <b>I'm <span style="color: blue; font-size: 40px;">Buddika Kasun</span></b>
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-</h1>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+        <ul align="left">
+                <summary>
+                        <h1>
+                                <b>I'm <span>Buddika Kasun</span></b>
+                                <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+                        </h1>
+                </summary>
+        </ul>
+</div>
 
 <p align="center">
+        <hr>
         <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" />
+        <hr>
 </p>
 
 
@@ -15,56 +24,56 @@
 
 <div>
         <a href="https://github.com/Buddika-Kasun?tab=followers">
-                <img src="https://komarev.com/ghpvc/?username=Buddika-Kasun&color=red"> &nbsp;
-                <img src="https://img.shields.io/github/followers/Buddika-Kasun?&logoColor=black&style=social" alt="GitHub followers"> &nbsp;
-                <img src="https://img.shields.io/github/stars/Buddika-Kasun?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars">
-        </a>
+                <img src="https://komarev.com/ghpvc/?username=Buddika-Kasun&color=blue"></a> &nbsp;
+        <a href="https://github.com/Buddika-Kasun?tab=followers">
+                <img src="https://img.shields.io/github/followers/Buddika-Kasun?&logoColor=black&style=social" alt="GitHub followers"></a> &nbsp;
+        <a href="https://github.com/Buddika-Kasun?tab=followers">
+                <img src="https://img.shields.io/github/stars/Buddika-Kasun?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
 </div>
 
 <br>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc" style="display: flex; flex-direction: column;">
-  <h1 style="display: inline-block">
-      Skills
-      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-  </h1>
-
-  <!--tech stack icons-->
-  <p>
-        <a href="https://skillicons.dev">
-        <!-- <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" /> -->
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,docker,mongo,express,react,nodejs,figma,github,java,c,cs,cpp,php,linux,materialui,mysql,nextjs,postman,py,tailwind,vscode&perline=14" />
-    </a>
-    </p>
+<div>
+        <!--h1 with bottom border-->
+        <h1 style="display: inline-block">
+                Skills
+                <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+        </h1>
+        <div>
+                <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,docker,mongo,express,react,nodejs,figma,github,java,c,cs,cpp,php,linux,materialui,mysql,nextjs,postman,py,tailwind,vscode&perline=14" />
+        </div>
 </div>
 
-  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-  <!-- Connect with me -->
-  <!--h2 without bottom border-->
-  <div id="user-content-toc">
-    <ul align="center">
-      <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-    </ul>
-  </div>
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+        <ul align="center">
+                <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+        </ul>
+</div>
   
-  <!--icons and links-->
-  <p align="center">
-  <a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-  <a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-  <a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-  <a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-    
-  </p>
+<!--icons and links-->
+<p align="center">
+        <a href="https://www.linkedin.com/in/1010nishant/" target="blank">
+                <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+        <a href="https://twitter.com/1010nishant" target="blank">
+                <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+        <a href="https://www.instagram.com/nishant.jangir.1010/" target="blank">
+                <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+        <a href="https://1010nishant.hashnode.dev/" target="blank">
+                <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+        <a href="https://discordapp.com/users/957722095381540874" target="blank">
+                <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+</p>
   
   
   <!--profile visit count-->
   <div align="center">
     
-  [![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=Buddika-Kasun&icon=3&color=6)](https://visitcount.itsvg.in)
     
   </div>
   
@@ -112,14 +121,6 @@
 </p>
 
 
-<a href="https://rextester.com/l/python3_online_compiler">
-    <img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/>
-</a>
+<img src="./assets/colored.png"  width="100%"/>
 
 
-
-
-<p align="center">
-<a href="https://wakatime.com/@Voko"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
-
-</p>
