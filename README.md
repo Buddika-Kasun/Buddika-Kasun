@@ -1,15 +1,7 @@
-<h1 align="left"><b>I'm 
-        <span
-            style="
-                background-image: linear-gradient(90deg, #FF6B6B, #FFD93D, #6BCB77, #4D96FF);
-                color: transparent;
-                font-size: 40px;
-        ">
-        Buddika Kasun
-        </span>
+<h1 align="left">
+        <b>I'm <span style="color: blue; font-size: 40px;">Buddika Kasun</span></b>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-    </b>
-    </h1>
+</h1>
 
 <p align="center">
         <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" />
@@ -18,12 +10,16 @@
 
 
 <p align="center">
-  <img src=https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs.."></a>
+          <img src=https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..">
 </p>
 
-
-![profile count](https://komarev.com/ghpvc/?username=Buddika-Kasun&color=red)&nbsp;
-[![GitHub Buddika-Kasun](https://img.shields.io/github/followers/Buddika-Kasun?label=follow&style=social)](https://github.com/Buddika-Kasun)&nbsp;
+<div>
+        <a href="https://github.com/Buddika-Kasun?tab=followers">
+                <img src="https://komarev.com/ghpvc/?username=Buddika-Kasun&color=red"> &nbsp;
+                <img src="https://img.shields.io/github/followers/Buddika-Kasun?&logoColor=black&style=social" alt="GitHub followers"> &nbsp;
+                <img src="https://img.shields.io/github/stars/Buddika-Kasun?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars">
+        </a>
+</div>
 
 <br>
 
@@ -125,6 +121,5 @@
 
 <p align="center">
 <a href="https://wakatime.com/@Voko"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
-<a href="https://github.com/Buddika-Kasun?tab=following"><img src="https://img.shields.io/github/stars/Buddika-Kasun?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
-<a href="https://github.com/Buddika-Kasun?tab=followers"><img src="https://img.shields.io/github/followers/Buddika-Kasun?&logoColor=red&style=social" alt="GitHub followers"></a>
+
 </p>
