@@ -22,6 +22,8 @@
           <img src=https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..">
 </p>
 
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
+
 <div>
         <!-- <a href="https://github.com/Buddika-Kasun?tab=followers">
                 <img src="https://komarev.com/ghpvc/?username=Buddika-Kasun&color=blue"></a> &nbsp; -->
@@ -43,9 +45,6 @@
                 <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,docker,mongo,express,react,nodejs,figma,github,java,c,cs,cpp,php,linux,materialui,mysql,nextjs,postman,py,tailwind,vscode&perline=14" />
         </div>
 </div>
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
