@@ -61,6 +61,7 @@
         </ul>
 </div>
 
+<img src="https://i.gifer.com/8oXf.gif" align="left">
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Buddika-Kasun&theme=panda&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats" align="left" />
 
