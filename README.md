@@ -47,8 +47,16 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-
-<h1>GitHub Analytics<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h1>
+<div>
+        <ul align="left">
+                <summary>
+                        <h1>
+                                GitHub Analytics
+                                <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+                        </h1>
+                </summary>
+        </ul>
+</div>
 
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Buddika-Kasun&theme=panda&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats" align="left" />
