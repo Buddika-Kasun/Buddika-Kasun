@@ -83,7 +83,7 @@
 
 <p align="center">
         <a href="https://github.com/pulls?q=is%3Apr+author%3ABuddika-Kasun+archived%3Afalse+is%3Aclosed#gh-dark-mode-only">
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buddika-Kasun&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
+                <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buddika-Kasun&theme=github_dark&utcOffset=5.30"  width="31%" alt="@Voko's productive-time"/></a>
         <a href="https://github.com/issues?q=is%3Aissue+author%3ABuddika-Kasun+archived%3Afalse+is%3Aclosed#gh-dark-mode-only">
                 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buddika-Kasun&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/><a>
 </p>
