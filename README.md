@@ -48,7 +48,7 @@
 <!--horizontal divider(gradiant)-->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=250px height=180px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <div id="user-content-toc">
         <ul align="left">
@@ -63,11 +63,9 @@
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Buddika-Kasun&theme=panda&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats" align="left" />
 
-<br>
-
-<img src="./assets/circuits.gif" width=200px height=200px align="left">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Buddika-Kasun&theme=neon-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats" align="right" />
+
+<img src="./assets/circuits.gif" width=180px height=180px align="left">
 
 </p>
 
