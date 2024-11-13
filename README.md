@@ -100,7 +100,7 @@
                 <summary>
                         <h2>
                                 Connect With Me
-                                <img src="./assets/handShake.gif" width="25" />
+                                <img src="./assets/handShake.gif" width="35" />
                         </h2>
                 </summary>
         </ul>
