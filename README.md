@@ -92,7 +92,7 @@
                 <picture>
                         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buddika-Kasun&theme=city_lights&utcOffset=5.30"  width="31%" alt="@Voko's productive-time">
                         <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buddika-Kasun&theme=light&utcOffset=5.30"  width="31%" alt="@Voko's productive-time">
-                        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buddika-Kasun&theme=city_lights&utcOffset=5.30"  width="31%" alt="@Voko's productive-time"/>
+                        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buddika-Kasun&theme=city_lights&utcOffset=5.30"  width="31%" alt="@Voko's productive-time">
                 </picture>
         </a>
         <a href="https://github.com/issues?q=is%3Aissue+author%3ABuddika-Kasun+archived%3Afalse+is%3Aclosed#gh-dark-mode-only">
@@ -108,7 +108,11 @@
 
 <!-- Top Langs Graph -->
 <!-- <p align="center"> -->
-<img height="180em" width=50% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+<picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=compact&langs_count=8&theme=dark&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=compact&langs_count=8&theme=light&hide_border=true">
+        <img height="180em" width=50% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=compact&langs_count=8&theme=dark&hide_border=true">
+</picture>
         <!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Buddika-Kasun&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>-->
 <!-- </p> -->
 
