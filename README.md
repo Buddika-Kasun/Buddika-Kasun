@@ -9,7 +9,7 @@
 
 <!-- Name Header -->
 <!-- h1 without bottom border -->
-<div id="user-content-toc">
+<!--<div id="user-content-toc">
         <ul align="left">
                 <summary>
                         <h1>
@@ -18,7 +18,7 @@
                         </h1>
                 </summary>
         </ul>
-</div>
+</div>-->
 
 <!-- Right Side Coding Gif -->
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "250px">
