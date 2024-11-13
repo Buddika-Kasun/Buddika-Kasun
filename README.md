@@ -46,9 +46,8 @@
 
 <!-- Rigth Side Graph Gif -->
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="./assets/graph.gif">
+	<source media="(prefers-color-scheme: dark)" srcset="./assets/graph.gif" align="right" width=250px height=180px>
         <source media="(prefers-color-scheme: light)" srcset="./assets/github.gif" width=100px height4=100px>
-        <img align="right" width=250px height=180px alt="side_sticker" src="./assets/graph.gif" />
 </picture>
 
 <!-- Github Analytics Header -->
