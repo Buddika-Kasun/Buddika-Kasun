@@ -108,11 +108,13 @@
 <img src="./assets/react.gif" align="left" width="200px" height="200px" />
 
 <!-- Top Langs Graph -->
+<div width=50% align="right">
 <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=donut&langs_count=8&theme=radical&hide_border=true">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=donut&langs_count=8&theme=light&hide_border=true">
         <img height="180em" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=donut&langs_count=8&theme=dark&hide_border=true" align="center">
 </picture>
+</div>
 
 <!-- Connect With Me Header -->
 <div id="user-content-toc">
