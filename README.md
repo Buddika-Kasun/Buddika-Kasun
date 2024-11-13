@@ -74,7 +74,7 @@
 </picture>
 
 <!-- Left Side Circuit Gif -->
-<img src="./assets/circuits.gif" width=50% height=180px align="center">
+<div align="center"><img src="./assets/circuits.gif" width=180px height=180px align="center"></div>
 
 <p align="center">
         <!-- Contribution Graph -->
