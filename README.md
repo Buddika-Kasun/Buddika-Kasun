@@ -110,18 +110,18 @@
 <p align="center">
         <img src="./assets/square.gif" align="right" width="200px" height="100px" />
         <a href="https://www.instagram.com/#/" target="blank">
-                <img align="center" src="./assets/linkedin.gif" alt="Instagram" height="50" width="50" /></a>
-        <a href="https://www.linkedin.com/#/" target="blank">
-                <img align="center" src="./assets/linkedinW.gif" alt="Linkedin" height="50" width="50" /></a>
+                <img align="center" src="./assets/linkedin.gif" alt="Instagram" height="60" width="50" /></a>
+        <!--<a href="https://www.linkedin.com/#/" target="blank">
+                <img align="center" src="./assets/linkedinW.gif" alt="Linkedin" height="50" width="50" /></a>-->
         <a href="#" target="blank">
-                <img align="center" src="./assets/whtspW.gif" alt="Whatsapp" height="50" width="50" /></a>
+                <img align="center" src="./assets/whtspW.gif" alt="Whatsapp" height="40" width="40" /></a>
         <a href="https://facebook.com/" target="blank">
                 <img align="center" src="./assets/fbW.gif" alt="Facebook" height="50" width="50" />
         </a>
         <a href="https://www.instagram.com/#/" target="blank">
                 <img align="center" src="./assets/instW.gif" alt="Instagram" height="50" width="50" /></a>
         <a href="https://www.instagram.com/#/" target="blank">
-                <img align="center" src="./assets/mail.gif" alt="Instagram" height="50" width="50" /></a>
+                <img align="center" src="./assets/mail.gif" alt="Instagram" height="50" width="60" /></a>
 </p>
 
 <!-- Tags -->
