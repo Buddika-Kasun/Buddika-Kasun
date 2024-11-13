@@ -6,18 +6,6 @@
         <!--<hr>-->
 </p>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-        <ul align="left">
-                <summary>
-                        <h1>
-                                <b>I'm <span>Buddika Kasun</span></b>
-                                <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-                        </h1>
-                </summary>
-        </ul>
-</div>
-
 <div>
         <!-- <a href="https://github.com/Buddika-Kasun?tab=followers">
                 <img src="https://komarev.com/ghpvc/?username=Buddika-Kasun&color=blue"></a> &nbsp; -->
@@ -25,6 +13,18 @@
                 <img src="https://img.shields.io/github/followers/Buddika-Kasun?&logoColor=black&style=social" alt="GitHub followers"></a> &nbsp;
         <a href="https://github.com/Buddika-Kasun?tab=followers">
                 <img src="https://img.shields.io/github/stars/Buddika-Kasun?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
+</div>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+        <ul align="left">
+                <summary>
+                        <h1>
+                                Hi, I'm <b>Buddika Kasun</b>
+                                <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+                        </h1>
+                </summary>
+        </ul>
 </div>
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "250px">
