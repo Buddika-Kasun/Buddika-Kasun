@@ -95,7 +95,7 @@
         <a href="https://github.com/pulls?q=is%3Apr+author%3ABuddika-Kasun+archived%3Afalse+is%3Aclosed#gh-dark-mode-only">
                 <picture>
                         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buddika-Kasun&theme=city_lights&utcOffset=5.30">
-                        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buddika-Kasun&theme=default&utcOffset=5.30">
+                        <source media="(prefers-color-scheme: default)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buddika-Kasun&theme=default&utcOffset=5.30">
                         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buddika-Kasun&theme=default&utcOffset=5.30"  width="31%" alt="@Voko's productive-time">
                 </picture>
         </a>
@@ -105,7 +105,7 @@
                         <source media="(prefers-color-scheme: default)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buddika-Kasun&theme=default&hide_border=true">
                         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buddika-Kasun&theme=default&hide_border=true"  width="64%" alt="@Voko's profile-details"/>
                 </picture>
-        <a>
+        </a>
 </p>
 
 <img src="./assets/react.gif" align="left" width="200px" height="200px" />
