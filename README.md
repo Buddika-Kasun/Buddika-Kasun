@@ -106,7 +106,7 @@
 </p>
 
 <!-- React Gif -->
-<div width=30%><img src="./assets/react.gif" align="center" width="200px" height="200px" /></div>
+<div><img src="./assets/react.gif" align="center" width="200px" height="200px" /></div>
 
 <!-- Top Langs Graph -->
 <picture>
