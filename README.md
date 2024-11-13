@@ -118,7 +118,7 @@
         <a href="https://www.instagram.com/__mr.kasun__" target="_blank">
                 <img align="center" src="./assets/instW.gif" alt="Instagram" height="40" width="40" /></a> &nbsp;
         <a href="#" target="_blank">
-                <img align="center" src="./assets/ttW.gif" alt="Mail" height="30" width="30" /></a>
+                <img align="center" src="./assets/ttW.gif" alt="Mail" height="40" width="30" /></a>
         <a href="mailto:buddikakasun80@gmail.com" target="_blank">
                 <img align="center" src="./assets/mail.gif" alt="Mail" height="50" width="60" /></a>
 </p>
