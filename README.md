@@ -9,16 +9,16 @@
 
 <!-- Name Header -->
 <!-- h1 without bottom border -->
-<!--<div id="user-content-toc">
+<div id="user-content-toc">
         <ul align="left">
                 <summary>
-                        <h1>
+                        <h2>
                                 Hi, I'm <b>Buddika Kasun</b>
                                 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-                        </h1>
+                        </h2>
                 </summary>
         </ul>
-</div>-->
+</div>
 
 <!-- Right Side Coding Gif -->
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "250px">
