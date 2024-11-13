@@ -67,10 +67,6 @@
 
 <img src="./assets/circuits.gif" width=180px height=180px align="left">
 
-</p>
-
-<!--<img src="./assets/colored.png"  width="100%"/>-->
-
 <p align="center">
         <!-- Contribution Graph -->
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Buddika-Kasun&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
@@ -95,8 +91,6 @@
         <img height="180em" width=100% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
         <!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Buddika-Kasun&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>-->
 </p>
-
-<!--<img src="./assets/colored.png"  width="100%"/>-->
 
 <!-- Connect With Me Header -->
 <div id="user-content-toc">
