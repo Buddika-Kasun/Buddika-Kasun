@@ -46,6 +46,7 @@
 
 <!-- Rigth Side Graph Gif -->
 <img align="right" width=250px height=180px alt="side_sticker" src="./assets/graph.gif" />
+<img align="right" width=250px height=180px alt="side_sticker" src="./assets/github.gif" />
 
 <!-- Github Analytics Header -->
 <div id="user-content-toc">
