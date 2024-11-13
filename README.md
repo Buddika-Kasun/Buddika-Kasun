@@ -98,7 +98,10 @@
 <div id="user-content-toc">
         <ul align="center">
                 <summary>
-                        <h2>Connect With Me🤝</h2>
+                        <h2>
+                                Connect With Me
+                                <img src="./assets/handShake.gif" width="25" />
+                        </h2>
                 </summary>
         </ul>
 </div>
