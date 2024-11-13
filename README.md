@@ -67,7 +67,11 @@
 </picture>
 
 <!-- Right Side Stat Graph -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Buddika-Kasun&theme=neon-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats" align="right" />
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Buddika-Kasun&theme=neon-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Buddika-Kasun&theme=neon-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Buddika-Kasun&theme=neon-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats" align="right" />
+</picture>
 
 <img src="./assets/circuits.gif" width=180px height=180px align="left">
 
