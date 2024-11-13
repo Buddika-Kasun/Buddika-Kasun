@@ -94,8 +94,6 @@
         <!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Buddika-Kasun&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>-->
 <!-- </p> -->
 
-<img src="./assets/square.gif" align="right" width="200px" height="100px" />
-
 <!-- Icons and Links -->
 <p align="center">
         <!-- Connect With Me Header -->
@@ -117,6 +115,8 @@
         </a>
 
 </p>
+
+<img src="./assets/square.gif" align="right" width="200px" height="100px" />
 
 <!-- Tags -->
 <p align="center">
