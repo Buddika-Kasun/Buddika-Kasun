@@ -65,7 +65,7 @@
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Buddika-Kasun&show_icons=true&theme=dark">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Buddika-Kasun&show_icons=true&theme=light">
-        <img src="https://github-readme-stats.vercel.app/api?username=Buddika-Kasun&show_icons=true&theme=light">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Buddika-Kasun&theme=panda&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats" align="left" />
 </picture>
 
 <!-- Right Side Stat Graph -->
