@@ -89,9 +89,19 @@
 <!-- Two Graph -->
 <p align="center">
         <a href="https://github.com/pulls?q=is%3Apr+author%3ABuddika-Kasun+archived%3Afalse+is%3Aclosed#gh-dark-mode-only">
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buddika-Kasun&theme=city_lights&utcOffset=5.30"  width="31%" alt="@Voko's productive-time"/></a>
+                <picture>
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buddika-Kasun&theme=city_lights&utcOffset=5.30"  width="31%" alt="@Voko's productive-time">
+                        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buddika-Kasun&theme=light&utcOffset=5.30"  width="31%" alt="@Voko's productive-time">
+                        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buddika-Kasun&theme=city_lights&utcOffset=5.30"  width="31%" alt="@Voko's productive-time"/>
+                </picture>
+        </a>
         <a href="https://github.com/issues?q=is%3Aissue+author%3ABuddika-Kasun+archived%3Afalse+is%3Aclosed#gh-dark-mode-only">
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buddika-Kasun&theme=aura_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/><a>
+                <picture>
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buddika-Kasun&theme=aura_dark&hide_border=true"  width="64%" alt="@Voko's profile-details">
+                        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buddika-Kasun&theme=light&hide_border=true"  width="64%" alt="@Voko's profile-details">
+                        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buddika-Kasun&theme=aura_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/>
+                </picture>
+        <a>
 </p>
 
 <img src="./assets/react.gif" align="left" width="200px" height="200px" />
