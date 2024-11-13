@@ -89,6 +89,14 @@
 
 <img src="./assets/colored.png"  width="100%"/>
 
+<p align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Buddika-Kasun/Buddika-Kasun/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Buddika-Kasun/Buddika-Kasun/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Buddika-Kasun/Buddika-Kasun/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -98,14 +106,6 @@
                 </summary>
         </ul>
 </div>
-
-<p align="center">
-	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Buddika-Kasun/Buddika-Kasun/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Buddika-Kasun/Buddika-Kasun/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Buddika-Kasun/Buddika-Kasun/output/github-contribution-grid-snake.svg">
-	</picture>
-</p>
 
 <!--icons and links-->
 <p align="center">
