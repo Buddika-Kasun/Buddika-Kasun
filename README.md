@@ -5,7 +5,7 @@
                 <summary>
                         <h1>
                                 Hi, I'm <b>Buddika Kasun</b>
-                                <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+                                <img src="./assets/giphy.gif" width="35">
                         </h1>
                 </summary>
         </ul>
@@ -21,7 +21,7 @@
 </p>
 
 <!-- Right Side Coding Gif -->
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "250px">
+<img align="right" src="./assets/rightSideCoding.gif" width = "250px">
 
 <!-- Left Side Typing Gif -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=30&center=false&vCenter=true&width=500&height=200&lines=Full-Stack+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner+and+Researcher,;Love+to+learn+new+technologies...">
