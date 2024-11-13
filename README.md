@@ -89,10 +89,10 @@
 <img src="./assets/react.gif" align="left" width="200px" height="200px" />
 
 <!-- Top Langs Graph -->
-<p align="center">
-        <img height="180em" width=100% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+<!-- <p align="center"> -->
+<img height="180em" width=100% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
         <!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Buddika-Kasun&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>-->
-</p>
+<!-- </p> -->
 
 <!-- Connect With Me Header -->
 <div id="user-content-toc">
