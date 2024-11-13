@@ -109,7 +109,7 @@
 <!-- Top Langs Graph -->
 <!-- <p align="center"> -->
 <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=donut&langs_count=8&theme=dark&hide_border=true">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=donut&langs_count=8&theme=react&hide_border=true">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=donut&langs_count=8&theme=light&hide_border=true">
         <img height="180em" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=donut&langs_count=8&theme=dark&hide_border=true">
 </picture>
