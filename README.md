@@ -100,7 +100,7 @@
 <p align="center">
         <!-- Connect With Me Header -->
         <div id="user-content-toc">
-                <ul align="left">
+                <ul align="center">
                         <summary>
                                 <h1>Connect With Me🤝</h1>
                         </summary>
