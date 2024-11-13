@@ -96,14 +96,6 @@
 
 <!-- Icons and Links -->
 <p align="center">
-        <!-- Connect With Me Header -->
-        <div id="user-content-toc">
-                <ul align="center">
-                        <summary>
-                                <h1>Connect With Me🤝</h1>
-                        </summary>
-                </ul>
-        </div>
         <img src="./assets/square.gif" align="right" width="200px" height="100px" />
         <a href="https://www.linkedin.com/#/" target="blank">
                 <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
