@@ -19,7 +19,7 @@
 </div>
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "250px">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=30&center=false&vCenter=true&width=500&height=200&lines=Full-Stack+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner+and+Researcher,;Love+to+learn+new+technologies...">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=30&center=false&vCenter=true&width=500&height=100&lines=Full-Stack+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner+and+Researcher,;Love+to+learn+new+technologies...">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -65,12 +65,14 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Buddika-Kasun&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
 </p>
 
-
+<!-- Snake -->
 <p align="center">
-        <img height="180em" width=100% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
-        <!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Buddika-Kasun&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>-->
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Buddika-Kasun/Buddika-Kasun/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Buddika-Kasun/Buddika-Kasun/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Buddika-Kasun/Buddika-Kasun/output/github-contribution-grid-snake.svg">
+	</picture>
 </p>
-
 
 <p align="center">
         <a href="https://github.com/pulls?q=is%3Apr+author%3ABuddika-Kasun+archived%3Afalse+is%3Aclosed#gh-dark-mode-only">
@@ -79,16 +81,12 @@
                 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buddika-Kasun&theme=aura_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/><a>
 </p>
 
+<p align="center">
+        <img height="180em" width=100% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Buddika-Kasun&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+        <!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Buddika-Kasun&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>-->
+</p>
 
 <!--<img src="./assets/colored.png"  width="100%"/>-->
-
-<p align="center">
-	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Buddika-Kasun/Buddika-Kasun/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Buddika-Kasun/Buddika-Kasun/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Buddika-Kasun/Buddika-Kasun/output/github-contribution-grid-snake.svg">
-	</picture>
-</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
