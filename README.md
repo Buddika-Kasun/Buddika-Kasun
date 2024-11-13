@@ -96,9 +96,9 @@
 
 <!-- Connect With Me Header -->
 <div id="user-content-toc">
-        <ul align="center">
+        <ul align="left">
                 <summary>
-                        <h2>Connect With Me🤝</h2>
+                        <h1>Connect With Me🤝</h1>
                 </summary>
         </ul>
 </div>
