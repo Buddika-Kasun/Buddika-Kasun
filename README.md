@@ -1,3 +1,11 @@
+<p align="center">
+        <!--<hr>-->
+	<img src="./assets/colored.png"  width="100%"/>
+        <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" />
+	<img src="./assets/colored.png"  width="100%"/>
+        <!--<hr>-->
+</p>
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
         <ul align="left">
@@ -9,14 +17,6 @@
                 </summary>
         </ul>
 </div>
-
-<p align="center">
-        <!--<hr>-->
-	<img src="./assets/colored.png"  width="100%"/>
-        <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" />
-	<img src="./assets/colored.png"  width="100%"/>
-        <!--<hr>-->
-</p>
 
 <div>
         <!-- <a href="https://github.com/Buddika-Kasun?tab=followers">
@@ -68,7 +68,7 @@
 
 </p>
 
-<img src="./assets/colored.png"  width="100%"/>
+<!--<img src="./assets/colored.png"  width="100%"/>-->
 
 <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Buddika-Kasun&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
@@ -89,7 +89,7 @@
 </p>
 
 
-<img src="./assets/colored.png"  width="100%"/>
+<!--<img src="./assets/colored.png"  width="100%"/>-->
 
 <p align="center">
 	<picture>
