@@ -46,7 +46,12 @@
 
 <!-- Rigth Side Graph Gif -->
 <img align="right" width=250px height=180px alt="side_sticker" src="./assets/graph.gif" />
-<img align="right" width=250px height=180px alt="side_sticker" src="./assets/github.gif" />
+<img align="right" width=150px height=120px alt="side_sticker" src="./assets/github.gif" />
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="./assets/graph.gif">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/github.gif">
+        <img align="right" width=250px height=180px alt="side_sticker" src="./assets/graph.gif" />
+</picture>
 
 <!-- Github Analytics Header -->
 <div id="user-content-toc">
