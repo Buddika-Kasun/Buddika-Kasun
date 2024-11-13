@@ -117,8 +117,8 @@
                 <img align="center" src="./assets/fbW.gif" alt="Facebook" height="40" width="40" /></a> &nbsp;
         <a href="https://www.instagram.com/__mr.kasun__" target="_blank">
                 <img align="center" src="./assets/instW.gif" alt="Instagram" height="40" width="40" /></a> &nbsp;
-        <a href="#" target="_blank">
-                <img align="center" src="./assets/ttW.gif" alt="TikTok" height="38" width="38" /></a>
+        <a href="https://www.tiktok.com/@b_1kz" target="_blank">
+                <img align="center" src="./assets/ttW.gif" alt="TikTok" height="36" width="36" /></a>
         <a href="mailto:buddikakasun80@gmail.com" target="_blank">
                 <img align="center" src="./assets/mail.gif" alt="Mail" height="50" width="60" /></a>
 </p>
