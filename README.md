@@ -101,7 +101,7 @@
         </a>
         <a href="https://github.com/issues?q=is%3Aissue+author%3ABuddika-Kasun+archived%3Afalse+is%3Aclosed#gh-dark-mode-only">
                 <picture>
-                        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buddika-Kasun&theme=aura_dark&hide_border=true">
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buddika-Kasun&theme=default&hide_border=true">
                         <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buddika-Kasun&theme=default&hide_border=true">
                         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buddika-Kasun&theme=aura_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/>
                 </picture>
