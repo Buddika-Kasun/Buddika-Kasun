@@ -11,9 +11,11 @@
 </div>
 
 <p align="center">
-        <hr>
+        <!--<hr>-->
+	<img src="./assets/colored.png"  width="100%"/>
         <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" />
-        <hr>
+	<img src="./assets/colored.png"  width="100%"/>
+        <!--<hr>-->
 </p>
 
 <div>
@@ -40,7 +42,7 @@
         </ul>
 </div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,docker,mongo,express,react,nodejs,figma,github,java,c,cs,cpp,php,linux,materialui,mysql,nextjs,postman,py,tailwind,vscode&perline=14" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,docker,mongo,express,react,nodejs,figma,github,java,c,cs,cpp,php,linux,materialui,mysql,nextjs,postman,py,tailwind,vscode&perline=10" />
 
 <!--horizontal divider(gradiant)-->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
@@ -125,6 +127,8 @@
 <div align="center">
         <img src="https://visitcount.itsvg.in/api?id=Buddika-Kasun&icon=3&color=6" />
 </div>
+
+<img src="./assets/colored.png"  width="100%"/>
 
 
 
