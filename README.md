@@ -103,7 +103,7 @@
         </ul>
 </div>
 
-<img src="./assets/square.gif" align="left" width="200px" height="200px" />
+<img src="./assets/square.gif" align="right" width="400px" height="200px" />
 
 <!-- Icons and Links -->
 <p align="center">
