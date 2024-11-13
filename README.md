@@ -73,9 +73,8 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Buddika-Kasun&theme=neon-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats" align="right" />
 </picture>
 
-&nbsp; &nbsp; &nbsp;
 <!-- Left Side Circuit Gif -->
-<img src="./assets/circuits.gif" width=180px height=180px align="left">
+&nbsp; &nbsp; &nbsp;<img src="./assets/circuits.gif" width=180px height=180px align="left">
 
 <p align="center">
         <!-- Contribution Graph -->
