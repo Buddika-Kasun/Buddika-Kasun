@@ -116,10 +116,10 @@
         <a href="#" target="blank">
                 <img align="center" src="./assets/whtspW.gif" alt="Whatsapp" height="40" width="40" /></a>
         <a href="https://facebook.com/" target="blank">
-                <img align="center" src="./assets/fbW.gif" alt="Facebook" height="50" width="50" />
+                <img align="center" src="./assets/fbW.gif" alt="Facebook" height="40" width="40" />
         </a>
         <a href="https://www.instagram.com/#/" target="blank">
-                <img align="center" src="./assets/instW.gif" alt="Instagram" height="50" width="50" /></a>
+                <img align="center" src="./assets/instW.gif" alt="Instagram" height="40" width="40" /></a>
         <a href="https://www.instagram.com/#/" target="blank">
                 <img align="center" src="./assets/mail.gif" alt="Instagram" height="50" width="60" /></a>
 </p>
