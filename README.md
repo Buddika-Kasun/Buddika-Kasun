@@ -109,15 +109,15 @@
 <!-- Icons and Links -->
 <p align="center">
         <img src="./assets/square.gif" align="right" width="200px" height="100px" />
-        <a href="https://www.linkedin.com/in/yourusername" target="blank">
+        <a href="https://www.linkedin.com/in/yourusername" target="_blank">
                 <img align="center" src="./assets/linkedin.gif" alt="LinkedIn" height="65" width="50" /></a> &nbsp;
-        <a href="https://wa.me/+94715315915" target="blank">
+        <a href="https://wa.me/+94715315915" target="_blank">
                 <img align="center" src="./assets/whtspW.gif" alt="Whatsapp" height="40" width="40" /></a> &nbsp;
-        <a href="https://facebook.com/" target="blank">
+        <a href="https://facebook.com/100009525502404" target="_blank">
                 <img align="center" src="./assets/fbW.gif" alt="Facebook" height="40" width="40" /></a> &nbsp;
-        <a href="https://www.instagram.com/" target="blank">
+        <a href="https://www.instagram.com/__mr.kasun__" target="_blank">
                 <img align="center" src="./assets/instW.gif" alt="Instagram" height="40" width="40" /></a> &nbsp;
-        <a href="mailto:buddikakasun80@gmail.com" target="blank">
+        <a href="mailto:buddikakasun80@gmail.com" target="_blank">
                 <img align="center" src="./assets/mail.gif" alt="Mail" height="50" width="60" /></a>
 </p>
 
