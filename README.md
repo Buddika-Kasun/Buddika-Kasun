@@ -135,7 +135,7 @@
 <!-- Icons and Links -->
 <p align="center">
         <img src="./assets/square.gif" align="right" width="200px" height="100px" />
-        <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+        <a href="https://www.linkedin.com/in/buddika-kasun-" target="_blank">
                 <img align="center" src="./assets/linkedin.gif" alt="LinkedIn" height="60" width="50" /></a> &nbsp;
         <a href="https://wa.me/+94715315915" target="_blank">
                 <img align="center" src="./assets/whtspW.gif" alt="Whatsapp" height="40" width="40" /></a> &nbsp;
